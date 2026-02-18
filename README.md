@@ -15,7 +15,7 @@ It lets you post an expression plus JSON-like input data and get a computed resu
 - `src/DynamicExpressionEngine.Api` – ASP.NET Core Web API (controllers, auth, Swagger)
 - `src/DynamicExpressionEngine.Core` – shared abstractions, models, validation, function catalog/registry
 - `src/DynamicExpressionEngine.NCalc` – expression engine implementation using [NCalc](https://github.com/ncalc/ncalc)
-- `tests/DynamicExpressionEngine.Tests` – integration + unit tests
+- `tests/DynamicExpressionEngine.Tests` – unit tests
 
 ---
 
