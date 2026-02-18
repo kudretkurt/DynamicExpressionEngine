@@ -1,0 +1,73 @@
+# =========================
+# .NET / Visual Studio / Rider
+# =========================
+
+# Build results
+**/bin/
+**/obj/
+
+# Test results
+**/TestResults/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.rsuser
+*.DotSettings.user
+
+# Visual Studio / MSBuild
+.vs/
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+
+# Rider project files (can appear in repo root)
+*.sln.DotSettings.user
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Coverage
+coverage/
+**/coverage.*
+**/*.coverage
+**/*.coveragexml
+
+# NuGet
+**/packages/
+**/*.nupkg
+**/*.snupkg
+**/project.lock.json
+**/project.fragment.lock.json
+**/artifacts/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# =========================
+# Misc / tooling
+# =========================
+
+# VS Code
+.vscode/
+
+# Node (if ever used)
+node_modules/
+
+# dotenv
+.env
+.env.*
+
+# Local secrets
+secrets.json
+

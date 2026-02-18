@@ -1,0 +1,6 @@
+@DynamicExpressionEngine.Api_HostAddress = http://localhost:5049
+
+GET {{DynamicExpressionEngine.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
